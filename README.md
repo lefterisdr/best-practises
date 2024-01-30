@@ -1,5 +1,5 @@
 # Lombok
-##1. Cleanup annotation
+1. **Cleanup** annotation
 **@Cleanup** can automatically manage various resources that need to be released, such as input and output streams, and ensure that the close method is called safely.
 
 It is used by prefixing the declared resource with @Cleanup, for example:
